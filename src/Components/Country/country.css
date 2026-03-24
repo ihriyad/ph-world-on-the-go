@@ -1,0 +1,9 @@
+.country{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;  
+
+    display:grid;
+    place-items: center;
+    background: rgb(67, 63, 63);
+}
